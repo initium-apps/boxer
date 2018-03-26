@@ -1,0 +1,11 @@
+#include "boxIcons.h"
+
+#include"icon_static.xpm"
+#include"icon_static_small.xpm"
+#include"icon_dynamic.xpm"
+#include"icon_dynamic_small.xpm"
+#include"icon_kinematic.xpm"
+#include"icon_kinematic_small.xpm"
+#include"icon_cursor.xpm"
+#include"icon_path.xpm"
+#include"icon_circle.xpm"
